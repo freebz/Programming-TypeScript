@@ -1,0 +1,6 @@
+var createElement = function (tag) {
+    // ...
+};
+function createElement(tag) {
+    // ...
+}

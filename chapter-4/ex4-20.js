@@ -1,0 +1,3 @@
+var reserve = function (from, toOrDestination, destination) {
+    // ...
+};
